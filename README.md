@@ -1,6 +1,6 @@
 ---
 
-# ⚡ Aspiring Mobile Web & AI Developer | triOS '27
+# ⚡ Aspiring Mobile Web & AI Developer | triOS College '27
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Stack&fontSize=50&animation=fadeIn" width="100%" />
