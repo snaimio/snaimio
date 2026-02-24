@@ -1,16 +1,64 @@
-## Hi there 👋
+# ⚡ Aspiring Mobile Web Developer | AI-Integrated
 
-<!--
-**snaimio/snaimio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Stack&fontSize=50&animation=fadeIn" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+## 🧑‍💻 The Profile
+> **"Bridging the gap between a blank canvas in Illustrator and a live app in Swift."**
+>
+> I am a creative technologist currently pursuing an **AI-Integrated Mobile Web Development** degree at **triOS College** (Class of 2027). I specialize in crafting high-fidelity user experiences that are as functional as they are beautiful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Digital Toolbox
+
+### 🎨 Design & UI/UX
+`Figma` `Adobe Photoshop` `Adobe Illustrator` `UI/UX Research` `Prototyping`
+
+### 💻 Frontend & Logic
+`HTML5` `CSS3` `JavaScript` `WordPress` `Git` `Version Control`
+
+### 🐧 Environment & Systems
+`Linux (Fedora)` `Shell Scripting` `GitHub Collaboration` `AI-Powered Workflows`
+
+---
+
+## 🚀 The Roadmap (2025 - 2027)
+
+| Status | Skill / Tech | Focus Area |
+| :--- | :--- | :--- |
+| ✅ | **Completed** | Graphic Design (Ps/Ai), UI/UX (Figma), HTML, CSS, JS |
+| 🏗️ | **In Progress** | **Java & Swift** (Native Mobile Development) |
+| ⏳ | **Up Next** | Angular, React, & MySQL Database Architecture |
+| 🎓 | **Goal** | **April 2027 Graduation & Professional Internship** |
+
+---
+
+## 📱 Featured Project
+### 🌿 GreenThumb Community Gardens
+*High-Fidelity UI/UX Design*
+- **The Challenge:** Designing a 6-page interactive prototype for community-led agriculture.
+- **The Solution:** Created a seamless user flow in **Figma** following **Apple's Human Interface Guidelines**.
+- **Tech Used:** Figma, Illustrator, User-Centric Design Principles.
+
+---
+
+## 📊 GitHub Stats & Activity
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let's Build Something Together
+- 💼 **LinkedIn:** [Insert Link]
+- 🎨 **Portfolio:** [Insert Link to WordPress/Behance]
+- 📧 **Email:** [Insert Email]
+
+---
+<p align="center">
+  <i>"Code is poetry, and design is the rhythm."</i><br>
+  <b>Looking for Internship Opportunities for 2027</b>
+</p>
