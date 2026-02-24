@@ -1,40 +1,36 @@
-# ⚡ Aspiring Mobile Web Developer | AI-Integrated
+# ⚡ Aspiring Mobile Web & AI Developer | triOS '27
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Stack&fontSize=50&animation=fadeIn" width="100%" />
 </p>
 
+---
+
 ## 🧑‍💻 About Me
 
 > **"Bridging the gap between a blank canvas in Illustrator and a live app in Swift."**
-> I am a creative technologist pursuing an **AI-Integrated Mobile Web Development** degree at **triOS College** (Class of 2027). I specialize in crafting **high-fidelity, user-focused experiences** that are both functional and visually appealing.
+> I’m a creative technologist pursuing an **AI-Integrated Mobile Web Development** degree at **triOS College (Class of 2027)**. I build **high-fidelity, user-focused experiences** that are **functional, responsive, and visually appealing**.
+
+**Focus Areas:** AI Integration | Mobile Web Development | UI/UX Design | Frontend Logic
 
 ---
 
-## 🛠️ My Digital Toolbox
+## 🛠️ My Toolbox
 
-### 🎨 Design & UI/UX
-
-`Figma` `Adobe Photoshop` `Adobe Illustrator` `UI/UX Research` `Prototyping`
-
-### 💻 Frontend & Logic
-
-`HTML5` `CSS3` `JavaScript` `WordPress` `Git` `Version Control`
-
-### 🐧 Environment & Systems
-
-`Linux (Fedora)` `Shell Scripting` `GitHub Collaboration` `AI-Powered Workflows`
+**🎨 Design & UI/UX:** Figma, Adobe Photoshop, Illustrator, Prototyping, UI/UX Research
+**💻 Frontend & Logic:** HTML5, CSS3, JavaScript, WordPress, Git
+**🐧 Environment & Systems:** Linux (Fedora), Shell Scripting, GitHub Collaboration, AI Workflows
 
 ---
 
-## 🚀 Roadmap (2025 - 2027)
+## 🚀 Roadmap (2025 – 2027)
 
-| Status | Skill / Tech    | Focus Area                                           |
-| :----- | :-------------- | :--------------------------------------------------- |
-| ✅      | **Completed**   | Graphic Design (Ps/Ai), UI/UX (Figma), HTML, CSS, JS |
-| 🏗️    | **In Progress** | **Java & Swift** (Native Mobile Development)         |
-| ⏳      | **Up Next**     | Angular, React, & MySQL Database Architecture        |
-| 🎓     | **Goal**        | **April 2027 Graduation & Professional Internship**  |
+| Status          | Skill / Tech                                         | Focus Area                       |
+| :-------------- | :--------------------------------------------------- | :------------------------------- |
+| ✅ Completed     | Graphic Design (Ps/Ai), UI/UX (Figma), HTML, CSS, JS | Foundations in design & frontend |
+| 🏗️ In Progress | Java & Swift                                         | Native Mobile Development        |
+| ⏳ Up Next       | Angular, React, MySQL                                | Advanced web apps & databases    |
+| 🎓 Goal         | Graduation & Professional Internship (April 2027)    | Launch career-ready projects     |
 
 ---
 
@@ -44,16 +40,18 @@
 
 *High-Fidelity UI/UX Prototype*
 
-* **Challenge:** Designing a 6-page interactive prototype for community-led gardening.
-* **Solution:** Built a seamless user flow in **Figma**, following **Apple Human Interface Guidelines**.
-* **Tech Used:** Figma, Illustrator, User-Centric Design Principles
+* **Challenge:** Design a 6-page interactive app for community gardening
+* **Solution:** Created a seamless **Figma** flow, following **Apple HIG**
+* **Impact:** Improved usability & engagement through user-centered design
+* **Tech Used:** Figma, Illustrator, UX Principles
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="left">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 </p>
 
 ---
@@ -67,8 +65,8 @@
 ---
 
 <p align="center">
-  <i>"Code is poetry, and design is the rhythm."</i><br>
-  <b>Open to 2027 Internship Opportunities</b>
+  <i>"Code is poetry; design is the rhythm."</i><br>
+  <b>Open to 2027 Internship Opportunities in AI & Mobile Web Development</b>
 </p>
 
 ---
