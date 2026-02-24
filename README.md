@@ -1,8 +1,3 @@
-
-
-
-
-
 # ⚡ Aspiring Mobile Web Developer | AI-Integrated
 
 <p align="center">
