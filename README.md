@@ -1,3 +1,5 @@
+---
+
 # ⚡ Aspiring Mobile Web & AI Developer | triOS '27
 
 <p align="center">
@@ -11,15 +13,15 @@
 > **"Bridging the gap between a blank canvas in Illustrator and a live app in Swift."**
 > I’m a creative technologist pursuing an **AI-Integrated Mobile Web Development** degree at **triOS College (Class of 2027)**. I build **high-fidelity, user-focused experiences** that are **functional, responsive, and visually appealing**.
 
-**Focus Areas:** AI Integration | Mobile Web Development | UI/UX Design | Frontend Logic
+**Focus Areas:** 🤖 AI Integration | 🌐 Mobile Web Development | 🎨 UI/UX Design | 💻 Frontend Logic
 
 ---
 
 ## 🛠️ My Toolbox
 
-**🎨 Design & UI/UX:** Figma, Adobe Photoshop, Illustrator, Prototyping, UI/UX Research
-**💻 Frontend & Logic:** HTML5, CSS3, JavaScript, WordPress, Git
-**🐧 Environment & Systems:** Linux (Fedora), Shell Scripting, GitHub Collaboration, AI Workflows
+**🎨 Design & UI/UX:** Figma • Adobe Photoshop • Illustrator • Prototyping • UI/UX Research
+**💻 Frontend & Logic:** HTML5 • CSS3 • JavaScript • WordPress • Git
+**🐧 Environment & Systems:** Linux (Fedora) • Shell Scripting • GitHub Collaboration • AI Workflows
 
 ---
 
@@ -58,15 +60,17 @@
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn:** [Insert Link]
-* 🎨 **Portfolio:** [Insert WordPress/Behance Link]
-* 📧 **Email:** [Insert Email]
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">💼 LinkedIn</a> • 
+  <a href="INSERT_PORTFOLIO_LINK" target="_blank">🎨 Portfolio</a> • 
+  <a href="mailto:YOUR_EMAIL" target="_blank">📧 Email</a>
+</p>
 
 ---
 
 <p align="center">
   <i>"Code is poetry; design is the rhythm."</i><br>
-  <b>Open to 2027 Internship Opportunities in AI & Mobile Web Development</b>
+  <b>🚀 Open to 2027 Internship Opportunities in AI & Mobile Web Development</b>
 </p>
 
 ---
