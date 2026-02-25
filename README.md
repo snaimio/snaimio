@@ -1,5 +1,3 @@
----
-
 # ⚡ Aspiring Mobile Web & AI Developer | triOS College '27
 
 <p align="center">
@@ -52,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snaimio&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snaimio&layout=compact&theme=radical)
 </p>
 
 ---
