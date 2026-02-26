@@ -22,16 +22,8 @@ I love turning design systems into smooth, real-world experiences—clean UI, so
 **What I’m focused on:**
 - 🤖 AI Integration — LLM-powered features & workflow automation  
 - 🌐 Mobile Web — Fast, responsive, native-feeling interfaces  
-- 🎨 UI/UX Design — Research-driven flows using Apple HIG & Material Design  
-
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-naim-704655384)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TheResilientPulse)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Sheikh-Naim)
-
+- 🎨 UI/UX Design — Research-driven flows using Apple HIG & Material Design
+- 
 ---
 
 ## 💻 Tech Stack
@@ -92,3 +84,10 @@ I love turning design systems into smooth, real-world experiences—clean UI, so
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=snaimio&icon=0&color=0" />
 </p>
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-naim-704655384)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TheResilientPulse)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Sheikh-Naim)
+
