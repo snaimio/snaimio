@@ -1,4 +1,4 @@
-# ⚡ Aspiring Mobile Web & AI Developer | :contentReference[oaicite:0]{index=0} ’27
+# ⚡ Aspiring Mobile Web & AI Developer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&animation=fadeIn" width="100%" />
@@ -87,14 +87,6 @@ A 6-page interactive mobile prototype built in Figma & Illustrator, following Ap
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=snaimio&theme=radical&hide_border=false" width="100%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snaimio&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" />
 </p>
 
 ---
