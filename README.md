@@ -14,16 +14,16 @@
 
 ## 🧑‍💻 About Me
 
-> **“Bridging the gap between a blank canvas in Illustrator and a live app in Swift.”**
+AI-Integrated Mobile Web Developer | Building, Learning, Delivering
 
-I’m a creative technologist studying **AI-Integrated Mobile Web Development** at triOS College (Class of 2027).  
-I love turning design systems into smooth, real-world experiences—clean UI, solid logic, and just enough AI to feel magical.
+I am an emerging developer at triOS College focused on the intersection of modern web standards and generative AI. I transform complex design systems into smooth, real-world digital experiences using a stack that includes HTML, CSS, JavaScript, and Swift. My goal is to deliver clean UI and solid logic, leveraging just enough AI to create seamless user experiences.
 
-**What I’m focused on:**
-- 🤖 AI Integration — LLM-powered features & workflow automation  
-- 🌐 Mobile Web — Fast, responsive, native-feeling interfaces  
-- 🎨 UI/UX Design — Research-driven flows using Apple HIG & Material Design
-- 
+Current Projects: Developing high-fidelity prototypes like "GreenThumb Community Gardens" in Figma and implementing AI-driven dashboards.
+
+Core Philosophy: Prioritizing native-feeling web solutions and research-backed design systems.
+
+Graduation Goal: January 2026 / April 2027 (Looking for Internship Opportunities).
+
 ---
 
 ## 💻 Tech Stack
