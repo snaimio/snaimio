@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-AI-Integrated Mobile Web Developer | Building, Learning, Delivering
+**AI-Integrated Mobile Web Developer | Building, Learning, Delivering**
 
 I am an emerging developer at triOS College focused on the intersection of modern web standards and generative AI. I transform complex design systems into smooth, real-world digital experiences using a stack that includes HTML, CSS, JavaScript, and Swift. My goal is to deliver clean UI and solid logic, leveraging just enough AI to create seamless user experiences.
 
