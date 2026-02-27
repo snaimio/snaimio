@@ -22,7 +22,7 @@ Current Projects: Developing high-fidelity prototypes like "GreenThumb Community
 
 Core Philosophy: Prioritizing native-feeling web solutions and research-backed design systems.
 
-Graduation Goal: January 2026 / April 2027 (Looking for Internship Opportunities).
+Graduation Goal: April 2027 (Looking for Internship Opportunities).
 
 ---
 
