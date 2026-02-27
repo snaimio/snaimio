@@ -16,7 +16,7 @@
 
 > **“Bridging the gap between a blank canvas in Illustrator and a live app in Swift.”**
 
-I’m a creative technologist studying **AI-Integrated Mobile Web Development** at :contentReference[oaicite:0]{index=0} (Class of 2027).  
+I’m a creative technologist studying **AI-Integrated Mobile Web Development** at triOS College (Class of 2027).  
 I love turning design systems into smooth, real-world experiences—clean UI, solid logic, and just enough AI to feel magical.
 
 **What I’m focused on:**
@@ -63,19 +63,6 @@ I love turning design systems into smooth, real-world experiences—clean UI, so
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snaimio&theme=radical&hide_border=false&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaimio&theme=radical&hide_border=false&layout=compact" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=snaimio&theme=radical&hide_border=false" width="100%" />
-</p>
-
----
-
 <p align="center">
   <i>"Code is poetry; design is the rhythm."</i><br/>
   <b>🚀 Open to 2027 Internship Opportunities</b>
@@ -85,7 +72,7 @@ I love turning design systems into smooth, real-world experiences—clean UI, so
   <img src="https://visitcount.itsvg.in/api?id=snaimio&icon=0&color=0" />
 </p>
 
-## 🌐 Socials
+## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-naim-704655384)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TheResilientPulse)
