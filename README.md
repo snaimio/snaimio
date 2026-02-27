@@ -1,4 +1,4 @@
-# ⚡ Mobile Web & AI Developer
+# ⚡ AI-Integrated Mobile Web Developer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&animation=fadeIn" width="100%" />
