@@ -67,9 +67,6 @@ I love turning design systems into smooth, real-world experiences—clean UI, so
   <b>🚀 Open to 2027 Internship Opportunities</b>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=snaimio&icon=0&color=0" />
-</p>
 
 ## 🌐 Connect with me
 
