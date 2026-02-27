@@ -18,11 +18,11 @@ AI-Integrated Mobile Web Developer | Building, Learning, Delivering
 
 I am an emerging developer at triOS College focused on the intersection of modern web standards and generative AI. I transform complex design systems into smooth, real-world digital experiences using a stack that includes HTML, CSS, JavaScript, and Swift. My goal is to deliver clean UI and solid logic, leveraging just enough AI to create seamless user experiences.
 
-Current Projects: Developing high-fidelity prototypes like "GreenThumb Community Gardens" in Figma and implementing AI-driven dashboards.
+**Current Projects:** Developing high-fidelity prototypes like "GreenThumb Community Gardens" in Figma and implementing AI-driven dashboards.
 
-Core Philosophy: Prioritizing native-feeling web solutions and research-backed design systems.
+**Core Philosophy:** Prioritizing native-feeling web solutions and research-backed design systems.
 
-Graduation Goal: April 2027 (Looking for Internship Opportunities).
+**Graduation Goal:** April 2027 (Looking for Internship Opportunities).
 
 ---
 
