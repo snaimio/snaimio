@@ -51,24 +51,13 @@ I love turning design systems into smooth, real-world experiences—clean UI, so
 
 ---
 
-## 📱 Featured Project
-
-### 🌿 GreenThumb Community Gardens  
-*Interactive High-Fidelity Prototype*
-
-**The Problem:** Fragmented communication in community gardens  
-**The Solution:** 6-page mobile prototype in Figma & Illustrator (Apple HIG)  
-**Features:** Plot booking • Plant tracking • Community forum  
-
----
-
 <p align="center">
   <i>"Code is poetry; design is the rhythm."</i><br/>
   <b>🚀 Open to 2027 Internship Opportunities</b>
 </p>
 
 
-## 🌐 Connect with me
+## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-naim-704655384)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TheResilientPulse)
