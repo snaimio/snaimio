@@ -1,65 +1,141 @@
-# ⚡ AI-Integrated Mobile Web Developer
+<div align="center">
+
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Sheikh%20Naim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Integrated%20Mobile%20Web%20Developer%20%7C%20Creative%20Technologist&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+
+  <!-- Animated Typing Subtitle -->
+  <a href="https://github.com/snaimio">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=AI-Integrated+Mobile+Web+Developer;Bridging+Design+Systems+with+Intelligent+Code;UI%2FUX+Specialist+(Figma+%E2%80%A2+Ps+%E2%80%A2+Ai);triOS+College+Class+of+2027" alt="Typing SVG" />
+  </a>
+
+  <!-- Quick Status Badges -->
+  <p>
+    <a href="https://github.com/snaimio">
+      <img src="https://img.shields.io/badge/Location-Toronto%2C%20ON%20🇨🇦-orange?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    </a>
+    <a href="https://github.com/snaimio">
+      <img src="https://img.shields.io/badge/Focus-Mobile%20Web%20%26%20AI-6c63ff?style=for-the-badge&logo=openai&logoColor=white" alt="Focus" />
+    </a>
+    <a href="https://github.com/snaimio">
+      <img src="https://img.shields.io/badge/Education-triOS%20College%20'27-blue?style=for-the-badge&logo=mortarboard&logoColor=white" alt="Education" />
+    </a>
+    <a href="https://www.linkedin.com/in/sheikh-naim-704655384">
+      <img src="https://img.shields.io/badge/Status-Open%20To%20Collab%20%26%20Internships-success?style=for-the-badge&logo=sparkles&logoColor=white" alt="Status" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am an **AI-Integrated Mobile Web Developer** and creative technologist based in **Toronto, Canada**, currently studying at **triOS College (Expected Grad: April 2027)**. I specialize in merging high-fidelity visual design systems with robust, responsive web engineering and intelligent AI orchestration.
+
+- 🎨 **Design-First Engineering:** Transforming complex design systems into intuitive digital interfaces guided by Apple's *Human Interface Guidelines* (HIG) and Google's *Material Design*.
+- ⚡ **Modern Web Stack:** Crafting fast, semantic, and accessible web experiences using modern HTML5, CSS3, JavaScript (ES6+), and responsive UI patterns.
+- 🤖 **AI Orchestration:** Exploring purposeful AI integration, prompt workflows, and AI-assisted web dashboards to build next-generation user experiences.
+- 🎯 **Career Focus:** Actively seeking **Co-op & Internship opportunities** in Mobile Web Development, Frontend Engineering, and Full-Stack AI solutions.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Mobile%20Web-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Collab-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Toronto%2C%20ON-orange?style=for-the-badge" />
+  <i>"Code is poetry; design is the rhythm."</i>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 🛠️ Tech Stack & Toolkit
 
-**AI-Integrated Mobile Web Developer | Building, Learning, Delivering**
+<div align="center">
 
-I am an AI-Integrated Mobile Web Developer and creative technologist at triOS College (Class of 2027), where I am focused on engineering production-ready applications that merge high-fidelity design with intelligent functionality. My expertise lies in transforming complex design systems into smooth, real-world digital experiences using a technical stack that includes HTML, CSS, and JavaScript. By prioritizing solid logic and research-driven user flows—guided by Apple's Human Interface Guidelines and Material Design—I deliver clean UI supported by purposeful AI integration. I am currently developing AI-driven dashboards and high-fidelity prototypes, with a professional goal of securing an internship to apply my skills in full-stack development and AI orchestration.
-
-**Current Projects:** Developing high-fidelity prototypes like "GreenThumb Community Gardens" in Figma and implementing AI-driven dashboards.
-
-**Core Philosophy:** Prioritizing native-feeling web solutions and research-backed design systems.
-
-**Graduation Goal:** April 2027 (Looking for Internship Opportunities).
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+#### 🌐 Frontend & Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Responsive_Design-4A90E2?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
----
-
-## 🚀 The 2027 Roadmap
-
-| Phase | Focus | Status |
-|------|-------|--------|
-| Foundations | UI/UX, HTML, CSS, JavaScript | ✅ Completed |
-| Mobile Core | Java & Swift (Native Apps) | 🏗️ In Progress |
-| Advanced Stack | React, Angular, MySQL, AI APIs | ⏳ Up Next |
-| Final Goal | Internship (April 2027) | 🎯 Locked In |
-
----
-
-<p align="center">
-  <i>"Code is poetry; design is the rhythm."</i><br/>
-  <b>🚀 Open to 2027 Internship Opportunities</b>
+#### 🎨 UI/UX & Creative Suite
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Apple_HIG-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple HIG" />
+  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design" />
 </p>
 
+#### 🤖 AI, Systems & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AI_Orchestration-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="AI Orchestration" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge&logo=deepnote&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Linux_&_Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
-## 🌐 Let's Connect
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-naim-704655384)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TheResilientPulse)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Sheikh-Naim)
+---
 
+### 🚀 Featured Projects
+
+| Project | Description | Tech & Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **🌱 GreenThumb Community Gardens** | High-fidelity mobile & web prototype connecting urban gardeners and local sustainable communities. | `Figma` `UI/UX Research` `Prototyping` `Design Systems` | [Explore Design](https://github.com/snaimio) |
+| **📊 AI-Integrated Dashboards** | Smart analytics and data visualization interfaces powered by intelligent workflows and clean UI. | `JavaScript` `AI Orchestration` `CSS3` `APIs` | [Explore Code](https://github.com/snaimio) |
+| **📋 Task Tracker & Todo List** | Clean, accessible productivity tools featuring local persistence and smooth UI interactions. | `HTML5` `CSS3` `JavaScript` `DOM Manipulation` | [Repository](https://github.com/snaimio/task-tracker) |
+| **🌿 Practice Labs & Git Workflows** | Structured coursework repositories focusing on version control, branching strategies, and web fundamentals. | `Git Workflows` `Issues & PRs` `Semantic HTML` | [View Repos](https://github.com/snaimio/week2_practice_issues_branches) |
+
+---
+
+### 🗺️ The 2027 Roadmap
+
+| Phase | Focus Areas | Status |
+| :--- | :--- | :--- |
+| **Foundations** | UI/UX Research, Design Systems, Semantic HTML5, Modern CSS3, JavaScript (ES6+) | ✅ Completed |
+| **Mobile & Native** | Java & Swift (Native Mobile Development), Responsive Architecture | 🏗️ In Progress |
+| **Advanced Stack & AI** | React, Angular, SQL / Databases, AI API Integrations & Orchestration | ⏳ Up Next |
+| **Career Launch** | Full-Stack / Mobile Web Developer Internship & Co-op (April 2027) | 🎯 Locked In |
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snaimio&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00F5D4&text_color=c9d1d9" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaimio&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" height="175" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snaimio&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📬 Let's Connect & Collaborate!
+
+<div align="center">
+
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities in tech.</p>
+
+  <a href="https://www.linkedin.com/in/sheikh-naim-704655384" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@TheResilientPulse" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://codepen.io/@Sheikh-Naim" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-1E1F26?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://github.com/snaimio">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" alt="Footer Wave" />
+
+</div>
