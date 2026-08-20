@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sheikh-naim-704655384" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sheikh-naim-704655384/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://snaimio.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://youtube.com/@TheResilientPulse" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://codepen.io/@Sheikh-Naim" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen" /></a>
+  <a href="https://github.com/snaimio" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -26,15 +26,15 @@ Currently working across:
 
 ## 🚀 Projects
 
-| Project | Platform | Stack | Notes |
+| Project | Platform | Stack | Repo / Code |
 | :--- | :--- | :--- | :--- |
-| **Spendora** | iOS | `SwiftUI` `SwiftData` `WidgetKit` `UserNotifications` | Capstone project — privacy-first subscription tracker. Local-only storage, home screen widget, calendar-based renewal reminders. No backend by design. |
-| **HydrationApp** | Android | `Kotlin` `Jetpack Compose` `Hilt` `Room` `Retrofit` `WorkManager` | Self-directed build progressing from Compose UI through DI, persistence, networking, and background reminders, with Compose UI tests and CI. |
-| **Android Finance Tracker** | Android | `Kotlin` `MVVM` `Room` | Personal finance tracker built on an MVVM architecture with local persistence. |
-| **iOS Campus Navigator** | iOS | `Swift` `MapKit` | Campus navigation app built on MapKit. |
-| **Task Tracker** | Web | `HTML5` `CSS3` `JavaScript` | Lightweight productivity tool with local persistence and DOM-driven UI. |
-
-*(Repo links to be added as projects are published — see individual repos on my profile.)*
+| **Spendora** | iOS | `SwiftUI` `SwiftData` `WidgetKit` `UserNotifications` | [snaimio/Spendora](https://github.com/snaimio/Spendora) |
+| **HydrationApp** | Android | `Kotlin` `Jetpack Compose` `Hilt` `Room` `Retrofit` `WorkManager` | [snaimio/lifescore-android-app](https://github.com/snaimio/lifescore-android-app) |
+| **Android Finance Tracker** | Android | `Kotlin` `MVVM` `Room` `Coroutines` | [snaimio/AndroidApp2](https://github.com/snaimio/AndroidApp2) |
+| **iOS Campus Navigator** | iOS | `Swift` `UIKit` `MapKit` `Core Location` | [snaimio/iOSApp6](https://github.com/snaimio/iOSApp6) |
+| **MovieFinder** | Web | `JavaScript` `TMDB API` `Fetch API` `CSS Animations` | [snaimio/MovieMoodMatcher](https://github.com/snaimio/MovieMoodMatcher) |
+| **Task Tracker** | Web | `HTML5` `CSS3` `JavaScript` | [snaimio/task-tracker](https://github.com/snaimio/task-tracker) |
+| **Portfolio Website** | Web | `HTML5` `CSS3` `JavaScript` | [snaimio/snaimio.github.io](https://github.com/snaimio/snaimio.github.io) |
 
 ---
 
@@ -64,7 +64,7 @@ Currently working across:
 ## 🎓 Education
 
 **triOS College** — *Mobile Web Developer Using AI*, Ontario College Diploma  
-Coursework spans SwiftUI (iOS), Kotlin/Views-based Android development, and a mobile capstone project.
+Coursework spans SwiftUI (iOS), Kotlin/Views-based Android development, and mobile capstone applications.
 
 ---
 
