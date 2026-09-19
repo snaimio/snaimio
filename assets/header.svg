@@ -70,16 +70,16 @@
 
   <!-- Tag 2: Android & Jetpack Compose -->
   <g transform="translate(220, 192)">
-    <rect width="210" height="36" rx="8" fill="#1E293B" fill-opacity="0.9" stroke="#334155" stroke-width="1" />
+    <rect width="218" height="36" rx="8" fill="#1E293B" fill-opacity="0.9" stroke="#334155" stroke-width="1" />
     <!-- Android Robot Icon -->
     <circle cx="24" cy="18" r="7" fill="#3DDC84" />
     <circle cx="21.5" cy="16.5" r="1" fill="#0F172A" />
     <circle cx="26.5" cy="16.5" r="1" fill="#0F172A" />
-    <text x="38" y="23" class="tag-label">Android · Compose</text>
+    <text x="38" y="23" class="tag-label">Jetpack Compose</text>
   </g>
 
   <!-- Tag 3: triOS College -->
-  <g transform="translate(442, 192)">
+  <g transform="translate(450, 192)">
     <rect width="186" height="36" rx="8" fill="#1E293B" fill-opacity="0.9" stroke="#334155" stroke-width="1" />
     <!-- Graduation Cap Icon -->
     <path d="M 16 19 L 24 15 L 32 19 L 24 23 Z M 20 22 L 20 25 C 20 26.5 21.8 27.5 24 27.5 C 26.2 27.5 28 26.5 28 25 L 28 22" fill="none" stroke="#F8FAFC" stroke-width="1.3" />
@@ -87,7 +87,7 @@
   </g>
 
   <!-- Tag 4: Toronto, Canada -->
-  <g transform="translate(640, 192)">
+  <g transform="translate(648, 192)">
     <rect width="176" height="36" rx="8" fill="#1E293B" fill-opacity="0.9" stroke="#334155" stroke-width="1" />
     <!-- Map Pin Icon -->
     <path d="M 24 13 C 21.5 13 19.5 15 19.5 17.5 C 19.5 21 24 26 24 26 C 24 26 28.5 21 28.5 17.5 C 28.5 15 26.5 13 24 13 Z M 24 19 C 23.2 19 22.5 18.3 22.5 17.5 C 22.5 16.7 23.2 16 24 16 C 24.8 16 25.5 16.7 25.5 17.5 C 25.5 18.3 24.8 19 24 19 Z" fill="#F8FAFC" transform="translate(-4, 0)" />
