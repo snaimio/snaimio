@@ -4,7 +4,7 @@
 ### Mobile & Full-Stack Web Developer
 **iOS (Swift / SwiftUI) &nbsp;·&nbsp; Android (Kotlin / Jetpack Compose) &nbsp;·&nbsp; Full-Stack Web**
 
-📍 **Toronto, ON, Canada** &nbsp;·&nbsp; 🎓 **triOS College (Mobile Web Developer Using AI, '27)** &nbsp;·&nbsp; 🟢 **Available for Co-ops & Junior Developer Roles**
+📍 **Toronto, ON, Canada** &nbsp;·&nbsp; 🎓 **triOS College (Mobile Web Developer Using AI)** &nbsp;·&nbsp; 🟢 **Available for Co-ops & Junior Roles**
 
 <br/>
 
@@ -17,10 +17,9 @@
 <br/>
 
 [![iOS](https://img.shields.io/badge/iOS-Swift%20%7C%20SwiftUI%20%7C%20SwiftData-F05138?style=flat-square&logo=swift&logoColor=white)](https://github.com/snaimio/Spendora)
-[![Android](https://img.shields.io/badge/Android-Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Room-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://github.com/snaimio/lifescore-android-app)
-[![Full-Stack Web](https://img.shields.io/badge/Full--Stack-JavaScript%20%7C%20Node.js%20%7C%20REST%20APIs-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/snaimio/MovieMoodMatcher)
-[![Cloud](https://img.shields.io/badge/Cloud-Firebase%20Auth%20%7C%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/snaimio/Nourishly)
-[![Roadmap](https://img.shields.io/badge/Upcoming-Angular%20%26%20React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/snaimio)
+[![Android](https://img.shields.io/badge/Android-Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Room-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://github.com/snaimio/HydrationApp-Android)
+[![Full-Stack Web](https://img.shields.io/badge/Full--Stack-PHP%20%7C%20MySQL%20%7C%20JavaScript-8892BF?style=flat-square&logo=php&logoColor=white)](https://github.com/snaimio)
+[![Roadmap](https://img.shields.io/badge/Learning-Angular%20%26%20React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/snaimio)
 
 </div>
 
@@ -30,72 +29,57 @@
 
 ## ⚡ About Me
 
-I am a Toronto-based **Mobile & Full-Stack Web Developer** studying in the **Mobile Web Developer Using AI** program at **triOS College** (Class of 2027). I build end-to-end digital experiences — from high-performance native mobile apps for **iOS (Swift / SwiftUI)** and **Android (Kotlin / Jetpack Compose)** to scalable **Full-Stack Web Applications** with clean REST APIs and reactive interfaces.
-
-- 🍎 **Native iOS:** Swift 5.10+, SwiftUI declarative UI, SwiftData / CoreData persistence, WidgetKit, UserNotifications, MapKit, AVFoundation
-- 🤖 **Native Android:** Kotlin, Jetpack Compose, Coroutines, Flow, Room DB, Hilt DI, WorkManager, SensorManager
-- 🌐 **Full-Stack Web:** Modern JavaScript (ES6+), TypeScript, Node.js, Express, RESTful APIs, HTML5/CSS3, responsive UI systems
-- 🚀 **Currently Expanding & Learning:** **Angular** (TypeScript, RxJS, component modules) and **React** (Hooks, SPA architecture, Next.js)
-- 🧠 **Engineering Philosophy:** Clean Architecture, MVVM / MVC, Unidirectional Data Flow (UDF), Repository Pattern, Apple HIG & Material Design 3
+I'm a Toronto-based developer studying in the **Mobile Web Developer Using AI** program at **triOS College**. I build native mobile apps across iOS and Android — currently focused on **SwiftUI for iOS** and **Kotlin / Jetpack Compose for Android** — and I'm expanding into full-stack web development with **PHP / MySQL**, moving into **Angular** and **React** next.
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Spendora](https://github.com/snaimio/Spendora) — iOS Subscription & Expense Tracker *(Capstone)*
+### [Spendora](https://github.com/snaimio/Spendora) — iOS Subscription Tracker *(Capstone)*
 > **Stack:** `Swift` · `SwiftUI` · `SwiftData` · `WidgetKit` · `UserNotifications`
 
-- **Privacy-First:** 100% on-device expense and subscription management with zero third-party tracking.
-- **Widgets:** Interactive Home Screen and Lock Screen widgets powered by WidgetKit with timeline updates.
-- **Smart Reminders:** Automated local notifications for upcoming subscription renewals and bill due dates.
-- **Modern Storage:** Local data persistence with SwiftData models and relational queries.
+Privacy-first subscription and renewal tracker — fully on-device with zero backend or third-party tracking. Built as my Mobile Capstone project.
+
+- 🔒 **Local Persistence:** Structured on-device data models managed with SwiftData.
+- 📱 **Home Screen Widget:** Interactive glanceable widgets powered by WidgetKit.
+- ⏰ **Renewal Reminders:** Scheduled local alerts using `UNCalendarNotificationTrigger`.
 
 👉 **[View Spendora Repository →](https://github.com/snaimio/Spendora)**
 
 ---
 
-### [LifeScore](https://github.com/snaimio/lifescore-android-app) — Gamified Android Habit & Life Tracker
-> **Stack:** `Kotlin` · `Jetpack Compose` · `Hilt DI` · `Room DB` · `Coroutines / Flow` · `WorkManager`
+### [HydrationApp](https://github.com/snaimio/HydrationApp-Android) — Android Hydration Tracker
+> **Stack:** `Kotlin` · `Jetpack Compose` · `Hilt` · `Room DB` · `Retrofit` · `WorkManager`
 
-- **Multi-Dimension Scoring:** Tracks progress across 8 core life dimensions with deterministic scoring algorithms.
-- **Architecture:** Clean MVVM architecture with Hilt for dependency injection and StateFlow for reactive UI state.
-- **Background Automation:** Scheduled daily resets and background metric calculations using WorkManager.
-- **Pure Compose UI:** Fully declarative Single-Activity UI built with Material 3 components.
+Self-directed Android project built to go deep on modern Android architecture — from Compose fundamentals through DI, persistence, networking, and background automation.
 
-👉 **[View LifeScore Repository →](https://github.com/snaimio/lifescore-android-app)**
+- 🏛️ **Architecture:** Clean MVVM with ViewModel, StateFlow, and Unidirectional Data Flow (UDF).
+- 💾 **Persistence:** Dual persistence layer using Room Database and Jetpack DataStore.
+- 🌦️ **Dynamic Weather:** Context-aware hydration recommendations via Retrofit REST networking.
+- ⚙️ **Background Jobs:** Scheduled reminder triggers managed by WorkManager.
+- 🧪 **Testing & CI:** Automated Compose UI testing suite with continuous integration via GitHub Actions.
 
----
-
-### [Nourishly](https://github.com/snaimio/Nourishly) — iOS Recipe & Guided Cooking Companion
-> **Stack:** `Swift` · `SwiftUI` · `Firebase Auth` · `Cloud Firestore` · `TheMealDB API` · `AVFoundation`
-
-- **Guided Cook Mode:** Step-by-step cooking workflow with automatic timer extraction, audio feedback, and haptics.
-- **Cloud & Local Sync:** User account system with Firebase Authentication and real-time Firestore synchronization for favorite recipes and cookbook reviews.
-- **Recipe Discovery:** Live recipe search, random meal picker, and category browsing powered by TheMealDB API.
-
-👉 **[View Nourishly Repository →](https://github.com/snaimio/Nourishly)**
+👉 **[View HydrationApp Repository →](https://github.com/snaimio/HydrationApp-Android)**
 
 ---
 
-### [MovieMoodMatcher](https://github.com/snaimio/MovieMoodMatcher) — Dynamic Web Movie Discovery
-> **Stack:** `JavaScript (ES6+)` · `Fetch API` · `TMDB REST API` · `CSS3 Animations` · `HTML5`
+### Maple — Family Household Management Web App *(Capstone, in progress)*
+> **Stack:** `PHP` · `MySQL` · `Angular` · `REST API`
 
-- **Dynamic Filtering:** Mood and genre-driven film curation querying the live TMDB REST API.
-- **Interactive UI:** Dynamic modal breakdowns, real-time search debouncing, and fluid responsive layouts.
-- **Async Architecture:** Robust asynchronous data pipeline with comprehensive error handling and caching.
+A family chore and points/rewards manager — the first module of a planned larger "family operating system."
 
-👉 **[View MovieMoodMatcher Repository →](https://github.com/snaimio/MovieMoodMatcher)** &nbsp;|&nbsp; 🌐 **[Live Demo](https://snaimio.github.io/movies.html)**
+- 🔑 **Secure Authentication:** PHP session-based authentication with role-based access control (parents/kids).
+- 📊 **Points Ledger:** Append-only transaction ledger tracking chore completions and reward redemptions.
+- ⚡ **Modern Interface:** Dynamic single-page frontend powered by Angular.
 
 ---
 
-### [Sensor ToolBox](https://github.com/snaimio/AndroidApp3) — Android Real-Time Hardware Sensor Suite
-> **Stack:** `Kotlin` · `SensorManager` · `Coroutines` · `Canvas Graphics`
+### [Portfolio Site](https://snaimio.github.io/) — Personal Developer Portfolio
+> **Stack:** `HTML5` · `CSS3` · `JavaScript (ES6+)`
 
-- **Live Sensor Telemetry:** Real-time hardware monitoring for Accelerometer, Gyroscope, Magnetometer, and Compass.
-- **Signal Filtering:** Low-pass filtering to isolate gravity components from raw user motion.
-- **Custom Graphics:** Real-time visual compass and vector charts drawn with Jetpack Compose Canvas.
+A single-page developer portfolio built with a light-mode-first design, smooth theme toggling, dynamic project filtering, and responsive mobile layouts.
 
-👉 **[View Sensor ToolBox Repository →](https://github.com/snaimio/AndroidApp3)**
+👉 **[Visit Live Website →](https://snaimio.github.io/)** &nbsp;|&nbsp; 💻 **[View Repository](https://github.com/snaimio/snaimio.github.io)**
 
 ---
 
@@ -103,22 +87,18 @@ I am a Toronto-based **Mobile & Full-Stack Web Developer** studying in the **Mob
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **iOS Development** | Swift 5.10+, SwiftUI, SwiftData, Core Data, WidgetKit, UserNotifications, MapKit, AVFoundation, Combine |
-| **Android Development** | Kotlin, Jetpack Compose, Coroutines, Flow / StateFlow, Room Database, Hilt DI, Retrofit 2, WorkManager, SensorManager |
-| **Full-Stack Web Development** | JavaScript (ES6+), TypeScript, Node.js, Express.js, HTML5, CSS3, RESTful APIs, JSON, Postman |
-| **⚡ In-Progress & Roadmap** | **React** (Components, Hooks, State Management, Next.js) & **Angular** (TypeScript, RxJS, Modules & Directives) |
-| **Cloud & Databases** | Firebase Authentication, Cloud Firestore, Room DB, SwiftData, SQLite, NoSQL & Relational Design |
-| **Architecture & Design** | MVVM, MVC, Clean Architecture, Unidirectional Data Flow (UDF), Repository Pattern, Apple HIG, Material Design 3, Figma |
-| **Developer Tools** | Xcode, Android Studio, VS Code, Git & GitHub, Postman, Figma, Terminal / Shell, CI/CD Actions |
+| **iOS Development** | Swift, SwiftUI, SwiftData, WidgetKit, UserNotifications |
+| **Android Development** | Kotlin, Jetpack Compose, Coroutines / Flow, Hilt DI, Room DB, Retrofit, WorkManager |
+| **Full-Stack Web** | HTML5, CSS3, JavaScript (ES6+), PHP, MySQL, REST APIs |
+| **⚡ Currently Learning** | **Angular**, **React** — expanding full-stack web capabilities alongside PHP/MySQL |
+| **Developer Tools** | Git & GitHub, Xcode, Android Studio, VS Code, Postman, Terminal |
 
 ---
 
-## 🎓 Education & Experience
+## 🎓 Education
 
-- **triOS College** *(Toronto, ON)* — **Mobile Web Developer Using AI** *(2024 – 2027)*
-  - Intensive training in native iOS development (Swift/SwiftUI), native Android development (Kotlin/Jetpack Compose), Full-Stack Web technologies, relational databases, and AI API integrations.
-- **Software Developer Intern** — *Digital Solutions Lab*
-  - Developed responsive mobile and web interfaces, integrated REST APIs, and participated in Agile team sprints.
+- **triOS College** *(Toronto, ON)* — **Mobile Web Developer Using AI**
+  - Native iOS (Swift / SwiftUI), native Android (Kotlin / Jetpack Compose), full-stack web engineering, and AI API integration coursework.
 
 ---
 
@@ -133,13 +113,5 @@ I am a Toronto-based **Mobile & Full-Stack Web Developer** studying in the **Mob
 <br/>
 
 <div align="center">
-  <a href="https://github.com/snaimio">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=snaimio&hide_border=true&background=F8FAFC&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <sub>© 2026 Sheikh Naim · Mobile & Full-Stack Web Developer · Toronto, Canada</sub>
+  <sub>© 2026 Sheikh Naim · Toronto, Canada</sub>
 </div>
