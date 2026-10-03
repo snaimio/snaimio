@@ -2,24 +2,14 @@
 
 # Sheikh Naim
 ### Mobile & Full-Stack Web Developer
-**iOS (Swift / SwiftUI) &nbsp;·&nbsp; Android (Kotlin / Jetpack Compose) &nbsp;·&nbsp; Full-Stack Web**
 
-📍 **Toronto, ON, Canada** &nbsp;·&nbsp; 🎓 **triOS College (Mobile Web Developer Using AI)** &nbsp;·&nbsp; 🟢 **Available for Co-ops & Junior Roles**
+📍 Toronto, ON, Canada &nbsp;·&nbsp; 🎓 Mobile Web Developer Using AI, triOS College
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-naim-704655384/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://snaimio.github.io)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sheikh.Naim@triosstudent.com)
-
-<br/>
-
-[![iOS](https://img.shields.io/badge/iOS-Swift%20%7C%20SwiftUI%20%7C%20SwiftData-F05138?style=flat-square&logo=swift&logoColor=white)](https://github.com/snaimio/Spendora)
-[![Android](https://img.shields.io/badge/Android-Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Room-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://github.com/snaimio/HydrationApp-Android)
-[![Full-Stack Web](https://img.shields.io/badge/Full--Stack-PHP%20%7C%20MySQL%20%7C%20JavaScript-8892BF?style=flat-square&logo=php&logoColor=white)](https://github.com/snaimio)
-[![Roadmap](https://img.shields.io/badge/Learning-Angular%20%26%20React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/snaimio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://snaimio.github.io)
 
 </div>
 
@@ -27,82 +17,84 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
-I'm a Toronto-based developer studying in the **Mobile Web Developer Using AI** program at **triOS College**. I build native mobile apps across iOS and Android — currently focused on **SwiftUI for iOS** and **Kotlin / Jetpack Compose for Android** — and I'm expanding into full-stack web development with **PHP / MySQL**, moving into **Angular** and **React** next.
-
----
-
-## 🚀 Featured Projects
-
-### [Spendora](https://github.com/snaimio/Spendora) — iOS Subscription Tracker *(Capstone)*
-> **Stack:** `Swift` · `SwiftUI` · `SwiftData` · `WidgetKit` · `UserNotifications`
-
-Privacy-first subscription and renewal tracker — fully on-device with zero backend or third-party tracking. Built as my Mobile Capstone project.
-
-- 🔒 **Local Persistence:** Structured on-device data models managed with SwiftData.
-- 📱 **Home Screen Widget:** Interactive glanceable widgets powered by WidgetKit.
-- ⏰ **Renewal Reminders:** Scheduled local alerts using `UNCalendarNotificationTrigger`.
-
-👉 **[View Spendora Repository →](https://github.com/snaimio/Spendora)**
+I'm a Toronto-based developer studying in the **Mobile Web Developer Using AI** program at **triOS College**. I build native mobile apps across iOS and Android — currently focused on SwiftUI for iOS and Kotlin/Jetpack Compose for Android — and I'm expanding into full-stack web development with PHP/MySQL, moving into Angular and React next.
 
 ---
 
-### [HydrationApp](https://github.com/snaimio/HydrationApp-Android) — Android Hydration Tracker
-> **Stack:** `Kotlin` · `Jetpack Compose` · `Hilt` · `Room DB` · `Retrofit` · `WorkManager`
+## Featured Projects
 
-Self-directed Android project built to go deep on modern Android architecture — from Compose fundamentals through DI, persistence, networking, and background automation.
+### [Spendora](https://github.com/snaimio/Spendora) — iOS Subscription & Expense Tracker *(Capstone)*
+`Swift 6` · `SwiftUI` · `SwiftData` · `WidgetKit` · `Swift Charts`
 
-- 🏛️ **Architecture:** Clean MVVM with ViewModel, StateFlow, and Unidirectional Data Flow (UDF).
-- 💾 **Persistence:** Dual persistence layer using Room Database and Jetpack DataStore.
-- 🌦️ **Dynamic Weather:** Context-aware hydration recommendations via Retrofit REST networking.
-- ⚙️ **Background Jobs:** Scheduled reminder triggers managed by WorkManager.
-- 🧪 **Testing & CI:** Automated Compose UI testing suite with continuous integration via GitHub Actions.
+Privacy-first subscription and expense tracker — fully on-device, no backend or third-party tracking. Built as my Mobile Capstone project.
 
-👉 **[View HydrationApp Repository →](https://github.com/snaimio/HydrationApp-Android)**
+- 1-tap payment logging with instant undo, and a preset catalog for 15+ popular services
+- Yearly trend analytics with Swift Charts, plus PDF and CSV export
+- Home and Lock Screen widgets via WidgetKit with live App Group sync
 
 ---
 
-### Maple — Family Household Management Web App *(Capstone, in progress)*
-> **Stack:** `PHP` · `MySQL` · `Angular` · `REST API`
+### [Maple](https://github.com/snaimio/maple) — Family Chores & Rewards Web App *(Capstone, in progress)*
+`PHP 8` · `MySQL` · `PHP Sessions` · `Angular (planned)`
 
-A family chore and points/rewards manager — the first module of a planned larger "family operating system."
+A framework-free PHP REST API for a family chore and rewards platform — Module 1 of a planned multi-module family coordination app.
 
-- 🔑 **Secure Authentication:** PHP session-based authentication with role-based access control (parents/kids).
-- 📊 **Points Ledger:** Append-only transaction ledger tracking chore completions and reward redemptions.
-- ⚡ **Modern Interface:** Dynamic single-page frontend powered by Angular.
-
----
-
-### [Portfolio Site](https://snaimio.github.io/) — Personal Developer Portfolio
-> **Stack:** `HTML5` · `CSS3` · `JavaScript (ES6+)`
-
-A single-page developer portfolio built with a light-mode-first design, smooth theme toggling, dynamic project filtering, and responsive mobile layouts.
-
-👉 **[Visit Live Website →](https://snaimio.github.io/)** &nbsp;|&nbsp; 💻 **[View Repository](https://github.com/snaimio/snaimio.github.io)**
+- Role-based access control (parent/child/admin) with session-based auth
+- Append-only points ledger — balances computed from transaction history, never stored directly
+- Chore lifecycle management, reward redemption approval workflow, household leaderboard & analytics endpoints
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### [Nourishly](https://github.com/snaimio/Nourishly) — iOS Recipe & Cooking Companion
+`SwiftUI` · `Firebase Authentication` · `Firestore` · `TheMealDB API`
 
-| Domain | Technologies & Frameworks |
+A recipe discovery and cooking companion app with cloud-synced favorites and cookbook reviews.
+
+- Live recipe search and meal data via TheMealDB API
+- Firebase Authentication and Firestore for account sync
+- NavigationStack, Searchable, AsyncImage, LazyVGrid, and other modern SwiftUI patterns
+
+---
+
+### [SuperPodcast](https://github.com/snaimio/AndroidApp4) — Android Podcast Discovery App
+`Kotlin` · `Retrofit` · `Room` · `Media3 ExoPlayer` · `WorkManager`
+
+A podcast search and discovery app built on the iTunes Search API with a custom mood-based ranking algorithm.
+
+- RSS feed management with Room for local subscription persistence
+- Media3 ExoPlayer for audio/video/HLS streaming
+- Background update detection via WorkManager
+
+---
+
+### [Portfolio Site](https://snaimio.github.io)
+`HTML` · `CSS` · `JavaScript`
+
+A single-page portfolio built for coursework, showcasing five projects with a light-mode-first design.
+
+---
+
+## Tech Stack
+
+| Domain | Technologies |
 | :--- | :--- |
-| **iOS Development** | Swift, SwiftUI, SwiftData, WidgetKit, UserNotifications |
-| **Android Development** | Kotlin, Jetpack Compose, Coroutines / Flow, Hilt DI, Room DB, Retrofit, WorkManager |
-| **Full-Stack Web** | HTML5, CSS3, JavaScript (ES6+), PHP, MySQL, REST APIs |
-| **⚡ Currently Learning** | **Angular**, **React** — expanding full-stack web capabilities alongside PHP/MySQL |
-| **Developer Tools** | Git & GitHub, Xcode, Android Studio, VS Code, Postman, Terminal |
+| **iOS** | Swift, SwiftUI, SwiftData, WidgetKit, Swift Charts, Clean MVVM |
+| **Android** | Kotlin, Retrofit, Room, Media3 ExoPlayer, WorkManager, Coroutines |
+| **Web & Cloud** | HTML, CSS, JavaScript, PHP, MySQL, Firebase (Auth, Firestore) |
+| **Tools** | Git & GitHub, Xcode, Android Studio, Composer |
+
+**Currently learning:** Angular, React — expanding my full-stack web skills alongside PHP/MySQL.
 
 ---
 
-## 🎓 Education
+## Education
 
-- **triOS College** *(Toronto, ON)* — **Mobile Web Developer Using AI**
-  - Native iOS (Swift / SwiftUI), native Android (Kotlin / Jetpack Compose), full-stack web engineering, and AI API integration coursework.
+**triOS College** — Mobile Web Developer Using AI, Toronto, ON  
+Native iOS (Swift/SwiftUI), native Android (Kotlin), full-stack web, and AI API integration coursework.
 
 ---
-
-## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snaimio&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=334155&bg_color=F8FAFC" height="155" alt="GitHub Statistics" />
