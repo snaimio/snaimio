@@ -5,13 +5,11 @@
 
 📍 Toronto, ON, Canada &nbsp;·&nbsp; 🎓 Mobile Web Developer Using AI, triOS College (Sep 2025 — May 14, 2027)
 
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-naimbgd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naimbgd@gmail.com)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-snaimio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snaimio)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-snaimio.github.io-CEFF00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://snaimio.github.io)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-snaimio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snaimio)
 
 </div>
 
