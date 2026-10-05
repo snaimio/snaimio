@@ -1,9 +1,9 @@
 <div align="center">
 
 # Sheikh Naim
-### Mobile & Full-Stack Web Developer
+### Mobile & Full-Stack Software Developer
 
-📍 Toronto, ON, Canada &nbsp;·&nbsp; 🎓 Mobile Web Developer Using AI, triOS College
+📍 Toronto, ON, Canada &nbsp;·&nbsp; 🎓 Mobile Web Developer Using AI, triOS College (Sep 2025 — May 14, 2027)
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a Toronto-based developer studying in the **Mobile Web Developer Using AI** program at **triOS College**. I build native mobile apps across iOS and Android — currently focused on SwiftUI for iOS and Kotlin/Jetpack Compose for Android — and I'm expanding into full-stack web development with PHP/MySQL, moving into Angular and React next.
+I'm a Toronto-based software developer studying in the **Mobile Web Developer Using AI** program at **triOS College** (Sep 2025 — May 14, 2027). I build native mobile apps across iOS and Android — currently focused on SwiftUI for iOS and Kotlin/Jetpack Compose for Android — and I'm expanding into full-stack software development with PHP/MySQL, moving into Angular and React next.
 
 ---
 
@@ -70,9 +70,9 @@ A podcast search and discovery app built on the iTunes Search API with a custom 
 ---
 
 ### [Portfolio Site](https://snaimio.github.io)
-`HTML` · `CSS` · `JavaScript`
+`HTML5` · `Modern CSS3` · `JavaScript`
 
-A single-page portfolio built for coursework, showcasing five projects with a light-mode-first design.
+A production single-page portfolio engineered with pure HTML, modern CSS design systems, and vanilla JavaScript showcasing native mobile and web applications.
 
 ---
 
@@ -85,13 +85,13 @@ A single-page portfolio built for coursework, showcasing five projects with a li
 | **Web & Cloud** | HTML, CSS, JavaScript, PHP, MySQL, Firebase (Auth, Firestore) |
 | **Tools** | Git & GitHub, Xcode, Android Studio, Composer |
 
-**Currently learning:** Angular, React — expanding my full-stack web skills alongside PHP/MySQL.
+**Currently learning:** Angular, React — expanding my full-stack software development skills alongside PHP/MySQL.
 
 ---
 
 ## Education
 
-**triOS College** — Mobile Web Developer Using AI, Toronto, ON  
+**triOS College** — Mobile Web Developer Using AI, Toronto, ON *(Sep 2025 — May 14, 2027)*  
 Native iOS (Swift/SwiftUI), native Android (Kotlin), full-stack web, and AI API integration coursework.
 
 ---
