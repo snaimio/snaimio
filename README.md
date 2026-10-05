@@ -1,7 +1,7 @@
 <div align="center">
 
 # Sheikh Naim
-### Mobile & Full-Stack Software Developer
+### Mobile & Full-Stack Web Developer
 
 📍 Toronto, ON, Canada &nbsp;·&nbsp; 🎓 Mobile Web Developer Using AI, triOS College (Sep 2025 — May 14, 2027)
 
@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a Toronto-based software developer studying in the **Mobile Web Developer Using AI** program at **triOS College** (Sep 2025 — May 14, 2027). I build native mobile apps across iOS and Android — currently focused on SwiftUI for iOS and Kotlin/Jetpack Compose for Android — and I'm expanding into full-stack software development with PHP/MySQL, moving into Angular and React next.
+I'm a Toronto-based developer studying in the **Mobile Web Developer Using AI** program at **triOS College** (Sep 2025 — May 14, 2027). I build native mobile apps across iOS and Android — currently focused on SwiftUI for iOS and Kotlin/Jetpack Compose for Android — and I'm expanding into full-stack web development with PHP/MySQL, moving into Angular and React next.
 
 ---
 
@@ -85,7 +85,7 @@ A production single-page portfolio engineered with pure HTML, modern CSS design 
 | **Web & Cloud** | HTML, CSS, JavaScript, PHP, MySQL, Firebase (Auth, Firestore) |
 | **Tools** | Git & GitHub, Xcode, Android Studio, Composer |
 
-**Currently learning:** Angular, React — expanding my full-stack software development skills alongside PHP/MySQL.
+**Currently learning:** Angular, React — expanding my full-stack web development skills alongside PHP/MySQL.
 
 ---
 
