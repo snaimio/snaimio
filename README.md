@@ -97,7 +97,7 @@ Native iOS (Swift/SwiftUI), native Android (Kotlin), full-stack web, and AI API 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snaimio&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=334155&bg_color=F8FAFC" height="155" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snaimio&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=334155&bg_color=F8FAFC" height="155" alt="GitHub Statistics" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaimio&layout=compact&hide_border=true&title_color=2563EB&text_color=334155&bg_color=F8FAFC" height="155" alt="Top Languages" />
 </div>
